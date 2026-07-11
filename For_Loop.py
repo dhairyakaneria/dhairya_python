@@ -7,9 +7,9 @@
     if i % 2 == 0:
         print(i)"""
  # 3. Print odd numbers from 1 to 15
-"""for i in range (1,16):
+for i in range (1,16):
     if i % 2 != 0:
-        print (i)"""
+        print (i)
 
 # 4. Print Table of 5
 """for i in range(1, 11):
